@@ -1,2 +1,3 @@
 migrations/* linguist-vendored
 test/* linguist-vendored
+*.js linguist-vendored
