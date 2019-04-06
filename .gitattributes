@@ -1,3 +1,4 @@
 migrations/* linguist-vendored
 test/* linguist-vendored
 *.js linguist-vendored
+contracts/*.sol linguist-language=Solidity
