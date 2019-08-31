@@ -12,7 +12,7 @@ Solidity smart contract for peer-to-peer betting. Current features:
 To run the tests:
 
 1. Start Ganache on localhost:7545
-2. Run ´truffle test --network ganache´
+2. Run `truffle test --network ganache`
 
 ## Test frontend
 
